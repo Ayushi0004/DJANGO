@@ -1,0 +1,18 @@
+form{
+    text-align: center;
+}
+div{
+    background-color: rgb(236, 194, 194);
+    border: 2px solid black;
+    width: 500px;
+    height: 320px;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+}
+button{
+    background-color: rgb(162, 209, 224);
+    border: 2px solid rgb(12, 8, 8);
+    
+}
